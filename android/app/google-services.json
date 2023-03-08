@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473234926086",
+    "project_id": "fifo-mobile-a3ee4",
+    "storage_bucket": "fifo-mobile-a3ee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473234926086:android:25db0dbecf7bf7a5f2f187",
+        "android_client_info": {
+          "package_name": "com.example.fifo_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473234926086-i3t9lt1bir19t9msiu8urbp1m03u4ogu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Cb1RNra8RFs2DlDINoYwOZtChz6wUCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473234926086-i3t9lt1bir19t9msiu8urbp1m03u4ogu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
