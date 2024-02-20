@@ -1,3 +1,3 @@
 # fifo_mobile
 
-A new Flutter project.
+Aplicação móvel para a gestão de senhas de um bar escolar.
